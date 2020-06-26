@@ -72,6 +72,10 @@ This could act as a temporary solution - if releasing this properly, need a solu
 
 https://stackoverflow.com/questions/36017724/can-i-have-multiple-gopath-directories
 
+## Testing
+
+https://stackoverflow.com/questions/59064256/is-it-possible-to-call-a-test-func-from-another-file-to-start-the-testing
+
 # Learning Hugo
 
 https://gohugo.io/

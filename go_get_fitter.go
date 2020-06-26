@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Main")
-	data.TestHello()
+	result := data.SplitByComma("a, b")
+	fmt.Println(result)
 }
